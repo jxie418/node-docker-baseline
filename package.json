@@ -1,0 +1,19 @@
+{
+  "name": "node-docker-baseline",
+  "version": "1.0.0",
+  "description": "node docker baseline instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnrhampton/node-docker-baseline.git"
+  },
+  "author": "JRH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnrhampton/node-docker-baseline/issues"
+  },
+  "homepage": "https://github.com/johnrhampton/node-docker-baseline#readme"
+}
