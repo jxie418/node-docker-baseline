@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/johnrhampton/node-docker-baseline/issues"
   },
-  "homepage": "https://github.com/johnrhampton/node-docker-baseline#readme"
+  "homepage": "https://github.com/johnrhampton/node-docker-baseline#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
