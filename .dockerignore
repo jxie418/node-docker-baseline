@@ -1,2 +1,3 @@
+# prevents these directories from being copied to docker image
 node_modules
 npm-debug.log
